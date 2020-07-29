@@ -1,7 +1,7 @@
 
 Sunglass model             |  Position model 
 :-------------------------:|:-------------------------:
-![](intermediate1.png)  |  ![](indermediate2.png)
+![](intermediate1.png)  |  ![](intermediate2.png)
 
 
 
