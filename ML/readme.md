@@ -6,11 +6,6 @@
 </p>
 
 <p>
-Sunglass model             |  Position model 
-:-------------------------:|:-------------------------:
-![](intermediate1.png)  |  ![](intermediate2.png)
-
-
 
 Sunglass model             |  Position model 
 :-------------------------:|:-------------------------:
