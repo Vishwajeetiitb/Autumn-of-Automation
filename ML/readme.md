@@ -9,6 +9,14 @@
 </p>
 
 <p>
+<p align="center">
+	<b>Intermediate Model predictions:</b>
+</p>	
+
+
+Sunglasses present         |  Sunglasses not present
+:-------------------------:|:-------------------------:
+![](intermediate1.png)  |  ![](intermediate2.png)
 
 Sunglass model : 99% accuracy           |  Position model 96% accuracy
 :-------------------------:|:-------------------------:
