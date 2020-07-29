@@ -1,7 +1,7 @@
 
 <p align="center">
 <p align="center">
-	<b>Intermediate Model results : 99.47% Validation accuracy</b>
+	Intermediate Model results : 99.47% Validation accuracy
 </p>
 <p align="center">
 	<b>Intermediate Model results : 99.47% Validation accuracy</b>
