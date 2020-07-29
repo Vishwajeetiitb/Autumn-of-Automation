@@ -1,1 +1,1 @@
-[! Test image](advanced_plot1.png)
+[! Test image](advanced_plot.png)
