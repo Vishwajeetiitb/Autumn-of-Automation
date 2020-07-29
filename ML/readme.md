@@ -1,5 +1,8 @@
 
 <p align="center">
+
+![link](https://drive.google.com/drive/folders/1-juc-o1IevhL_FL7CcbjUjeFYctu8eYL?usp=sharing)
+
 <p align="center">
 	<b>Intermediate Model results : 99.47% Validation accuracy</b>
 </p>
@@ -14,7 +17,7 @@
 </p>	
 <br>
 
-Sunglasses present         |  Sunglasses not present
+Sunglasses not present         |  Sunglasses present
 :-------------------------:|:-------------------------:
 ![](intermediate1.png)  |  ![](intermediate2.png)
 
