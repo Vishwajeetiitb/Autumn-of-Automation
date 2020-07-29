@@ -38,7 +38,6 @@ Sunglasses not present         |  Sunglasses present
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
 
