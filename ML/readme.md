@@ -21,9 +21,13 @@
 </p>	
 <br>
 
+<p align="center">
+
 Sunglasses not present         |  Sunglasses present
 :-------------------------:|:-------------------------:
 ![](intermediate1.png)  |  ![](intermediate2.png)
+
+</p>
 
 <br/>
 <br/>
@@ -33,7 +37,12 @@ Sunglasses not present         |  Sunglasses present
 	<b>Advanced model (I could do only position and sunglasses , not able to train expression part )</b>
 </p>
 
+<p align="center">
+
 Sunglass model : 99% accuracy           |  Position model 96% accuracy
 :-------------------------:|:-------------------------:
 ![](advanced_plot.png)  |  ![](advanced_plot2.png)
+
+</p>
+
 </p>
