@@ -29,6 +29,10 @@ Sunglasses not present         |  Sunglasses present
 <br/>
 <br/>
 
+<p align="center">
+	<b>Advanced model (I could do only position and sunglasses , not able to train expression part )</b>
+</p>
+
 Sunglass model : 99% accuracy           |  Position model 96% accuracy
 :-------------------------:|:-------------------------:
 ![](advanced_plot.png)  |  ![](advanced_plot2.png)
