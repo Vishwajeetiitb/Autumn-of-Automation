@@ -1,7 +1,7 @@
 
 <p align="center">
 
-![link](https://drive.google.com/drive/folders/1-juc-o1IevhL_FL7CcbjUjeFYctu8eYL?usp=sharing)
+[Link for all trained model_files](https://drive.google.com/drive/folders/1-juc-o1IevhL_FL7CcbjUjeFYctu8eYL?usp=sharing)
 
 <p align="center">
 	<b>Intermediate Model results : 99.47% Validation accuracy</b>
