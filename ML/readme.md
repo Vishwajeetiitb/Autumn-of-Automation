@@ -21,6 +21,7 @@ Sunglasses present         |  Sunglasses not present
 <br/>
 <br/>
 <br/>
+
 Sunglass model : 99% accuracy           |  Position model 96% accuracy
 :-------------------------:|:-------------------------:
 ![](advanced_plot.png)  |  ![](advanced_plot2.png)
