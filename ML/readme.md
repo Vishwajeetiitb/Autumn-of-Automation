@@ -5,7 +5,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <p align="center">
 	<b>Intermediate Model results : 99.47% Validation accuracy</b>
