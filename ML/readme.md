@@ -10,7 +10,7 @@
 
 <p>
 
-Sunglass model             |  Position model 
+Sunglass model : 99% accuracy           |  Position model 96% accuracy
 :-------------------------:|:-------------------------:
 ![](advanced_plot.png)  |  ![](advanced_plot2.png)
 </p>
