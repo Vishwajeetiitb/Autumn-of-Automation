@@ -1,0 +1,1 @@
+[! Test image](advanced_plot1.png)
